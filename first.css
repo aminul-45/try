@@ -1,0 +1,46 @@
+table,th,td{
+border:3px solid green;
+border-collapse: collapse;
+max-width: 1200px;
+height:10px;
+align-content: center;
+text-align: center;
+align-self: center;
+}
+th,td{
+    color:blue;
+}
+table{margin: auto;
+padding-top: 300px;
+outline: 390px;
+outline: auto;}
+p{
+    border:5px solid green;
+   max-width: 1000px; 
+    height: 100px;
+ overflow: auto;
+    margin: auto;
+}
+.box1 {
+    width:500px;
+    height:300px;
+    background-color: green;
+    margin:auto;
+    position:relative;
+    
+}
+.box2{
+    width:100px ;
+    height:100px;
+    background-color: red;
+
+    border-radius: 50%;
+    margin: auto;
+    position: absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+
+
+}
